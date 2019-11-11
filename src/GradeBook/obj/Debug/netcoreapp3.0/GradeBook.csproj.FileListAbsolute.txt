@@ -1,0 +1,11 @@
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.exe
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.deps.json
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.runtimeconfig.json
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.runtimeconfig.dev.json
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.dll
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.pdb
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfo.cs
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.dll
+C:\Users\i.oliveira.galbero\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.pdb
