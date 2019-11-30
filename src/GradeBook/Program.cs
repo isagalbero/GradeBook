@@ -16,7 +16,7 @@ namespace GradeBook
                 
             }
             result /= grades.Count;
-            Console.WriteLine($"O valor da média é {result}");
+            Console.WriteLine($"O valor da média é {result:N2}");
 
 
             if(args.Length > 0)
